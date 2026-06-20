@@ -1,0 +1,6 @@
+{
+  "name": "CEYVANA ERP",
+  "description": "Premium Ceylon Spices Manufacturing & Distribution Management System with AI-powered analytics and offline Room synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
